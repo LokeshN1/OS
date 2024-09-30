@@ -36,7 +36,7 @@ int main(){
             }
         }
     }
-    int ct=0, i=0; 
+    int ct=0, i=0;         // here ct = current time and i = process no.
     
     // calculate ct, wt for each process
     while(i < n){
