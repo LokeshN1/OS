@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Prioirty Scheduling -> lower the no. higher the priority -> means process with priority 2 have higher prioirty then process with prioirty > 4
+// Prioirty Scheduling -> lower the no. higher the priority -> means process with priority 2 have higher prioirty then (process with prioirty > 2)
 
 // Define the structure for a Process
 typedef struct Process {
